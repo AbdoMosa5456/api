@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Tesla Model S Plaid",
+        "model": 2024,
+        "price": 91500,
+        "imageUrl": "https://media.ed.edmunds-media.com/tesla/model-s/2024/oem/2024_tesla_model-s_sedan_plaid_fq_oem_1_1600.jpg",
+        "description": "One of the fastest-accelerating production cars ever made. The tri-motor Plaid powertrain delivers hypercar-level performance in a practical luxury sedan."
+    },
+    {
+        "id": 2,
+        "title": "Tesla Cybertruck",
+        "model": 2024,
+        "price": 102000,
+        "imageUrl": "https://media.ed.edmunds-media.com/tesla/cybertruck/2024/oem/2024_tesla_cybertruck_crew-cab-pickup_cyberbeast_fq_oem_1_1600.jpg",
+        "description": "A radical reimagining of the pickup truck, featuring a nearly impenetrable stainless-steel exoskeleton, futuristic design, and versatile utility."
+    },
+    {
+        "id": 3,
+        "title": "Tesla Model X Plaid",
+        "model": 2024,
+        "price": 96500,
+        "imageUrl": "https://media.ed.edmunds-media.com/tesla/model-x/2024/oem/2024_tesla_model-x_4dr-suv_plaid_fq_oem_1_1600.jpg",
+        "description": "The quickest production SUV on the planet. It combines the utility of a three-row SUV and iconic Falcon Wing doors with the absurd acceleration of the Plaid powertrain."
+    },
+    {
+        "id": 4,
+        "title": "Tesla Model 3 Performance",
+        "model": 2024,
+        "price": 55000,
+        "imageUrl": "https://media.ed.edmunds-media.com/tesla/model-3/2024/oem/2024_tesla_model-3_sedan_performance_fq_oem_1_1600.jpg",
+        "description": "The track-ready version of the popular Model 3. It offers sports car handling and blistering acceleration, making it a dominant force in the compact electric sedan segment."
+    },
+    {
+        "id": 5,
+        "title": "Tesla Model Y Performance",
+        "model": 2024,
+        "price": 53000,
+        "imageUrl": "https://media.ed.edmunds-media.com/tesla/model-y/2024/oem/2024_tesla_model-y_4dr-suv_performance_fq_oem_1_1600.jpg",
+        "description": "The high-performance variant of the world's best-selling electric crossover. It blends family-friendly practicality with supercar-like speed and agility."
+    },
+    {
+        "id": 6,
+        "title": "Tesla Roadster",
+        "model": 2025,
+        "price": 250000,
+        "imageUrl": "https://arabgt.com/wp-content/uploads/2025/07/%D8%AA%D8%B3%D9%84%D8%A7-%D8%B1%D9%88%D8%AF%D8%B3%D8%AA%D8%B1-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9.jpg",
+        "description": "The upcoming next-generation hypercar promising record-shattering performance, including unprecedented acceleration, top speed, and range for an electric vehicle."
+    },
+    {
+        "id": 7,
+        "title": "Tesla Model S",
+        "model": 2024,
+        "price": 76500,
+        "imageUrl": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Tesla/Model-S/5252/1752499273852/front-left-side-47.jpg",
+        "description": "The flagship sedan that revolutionized the EV industry. It continues to set the standard for long-range electric travel, minimalist luxury, and cutting-edge technology."
+    },
+    {
+        "id": 8,
+        "title": "Tesla Model X",
+        "model": 2024,
+        "price": 81500,
+        "imageUrl": "https://www.autopediame.com/storage/images/tesla/Model%20X/2024%20Tesla%20Model%20X%20.jpg",
+        "description": "The premium electric SUV known for its iconic Falcon Wing doors, expansive interior, and top-tier safety ratings, making it a unique choice for families."
+    },
+    {
+        "id": 9,
+        "title": "Tesla Model 3 Long Range",
+        "model": 2024,
+        "price": 48000,
+        "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2024-tesla-model-3-long-range-rwd-132-66feb663ecf17.jpg?crop=0.811xw:0.811xh;0.0969xw,0.189xh&resize=980:*",
+        "description": "The most popular version of the Model 3, offering an exceptional balance of extensive driving range, brisk performance, and advanced tech in an accessible package."
+    },
+    {
+        "id": 10,
+        "title": "Tesla Model Y Long Range",
+        "model": 2026,
+        "price": 48500,
+        "imageUrl": "https://i.gaw.to/vehicles/photos/40/43/404358-2026-tesla-model-y.jpg",
+        "description": "The best-selling version of the Model Y, providing ample range, versatile cargo space, and all-wheel drive, making it the ideal all-around electric family crossover."
+    }
+]

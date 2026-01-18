@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Jeep Wrangler Rubicon 392",
+        "model": 2024,
+        "price": 92000,
+        "imageUrl": "https://www.arabsauto.com/wp-content/uploads/2021/12/2022-Wrangler-Rubicon-392-ArabsAuto-UAE.jpg",
+        "description": "The most powerful Wrangler ever, factory-fitted with a monstrous 6.4L HEMI V8 engine. It combines legendary Rubicon off-road capability with pure muscle car power."
+    },
+    {
+        "id": 2,
+        "title": "Jeep Grand Wagoneer",
+        "model": 2023,
+        "price": 105000,
+        "imageUrl": "https://media.ed.edmunds-media.com/jeep/grand-wagoneer/2023/oem/2023_jeep_grand-wagoneer_4dr-suv_series-iii_fq_oem_1_1600.jpg",
+        "description": "The pinnacle of American luxury. A premium three-row SUV that redefines sophistication with exquisite materials, state-of-the-art technology, and immense capability."
+    },
+    {
+        "id": 3,
+        "title": "Jeep Gladiator Mojave",
+        "model": 2024,
+        "price": 62000,
+        "imageUrl": "https://media.ed.edmunds-media.com/jeep/gladiator/2024/oem/2024_jeep_gladiator_crew-cab-pickup_mojave-x_fq_oem_1_1600.jpg",
+        "description": "The first-ever Desert Rated Jeep. Specifically engineered for high-speed desert running with specialized FOX shocks and a reinforced frame for ultimate performance on sand."
+    },
+    {
+        "id": 4,
+        "title": "Jeep Grand Cherokee L Summit",
+        "model": 2023,
+        "price": 72000,
+        "imageUrl": "https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2025/grand-cherokee/gallery/desktop/MY25-WL-Gallery-01-Expanded-Desktop.jpg.image.1440.jpg",
+        "description": "The three-row Grand Cherokee in its most luxurious form. The Summit trim offers premium comfort, advanced driver-assist features, and sophisticated style for the entire family."
+    },
+    {
+        "id": 5,
+        "title": "Jeep Wrangler 4xe",
+        "model": 2024,
+        "price": 60000,
+        "imageUrl": "https://citymagazine.b-cdn.net/wp-content/uploads/2024/11/jeep-2024-0-jpg.webp",
+        "description": "The future of off-roading. This plug-in hybrid Wrangler delivers legendary capability with the added benefit of nearly silent, all-electric trail riding and enhanced torque."
+    },
+    {
+        "id": 6,
+        "title": "Jeep Grand Cherokee Trackhawk",
+        "model": 2021,
+        "price": 95000,
+        "imageUrl": "https://media.ed.edmunds-media.com/jeep/grand-cherokee/2021/oem/2021_jeep_grand-cherokee_4dr-suv_trackhawk_fq_oem_1_1600.jpg",
+        "description": "A supercar in an SUV's body. Powered by the supercharged 6.2L Hellcat V8 engine, it was one of the fastest and most powerful production SUVs in the world."
+    },
+    {
+        "id": 7,
+        "title": "Jeep Wagoneer",
+        "model": 2023,
+        "price": 75000,
+        "imageUrl": "https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2025/wagoneer/wagoneer/gallery/desktop/my25-wagoneer-gallery-03-exterior-v2-desktop.jpg.image.1440.jpg",
+        "description": "A modern classic reborn. A full-size, three-row SUV offering a vast interior, powerful V8 performance, and premium features, perfect for large families and grand adventures."
+    },
+    {
+        "id": 8,
+        "title": "Jeep Renegade Trailhawk",
+        "model": 2023,
+        "price": 34000,
+        "imageUrl": "https://cache4.arabwheels.ae/system/car_generation_pictures/23325/original/Cover.?1729746206",
+        "description": "The most capable version of Jeep's compact SUV. The Trailhawk model earns its Trail Rated badge with increased ground clearance and an advanced 4x4 system."
+    },
+    {
+        "id": 9,
+        "title": "Jeep Compass",
+        "model": 2023,
+        "price": 35000,
+        "imageUrl": "https://www.mideast.jeep.com/content/dam/cross-regional/emea/jeep/en_me/2020/compass/gallery/extreior/Gallery-Exterior-Iconic-Style-Reimagined-Desktop.jpg.img.1440.jpg",
+        "description": "A stylish and sophisticated compact SUV that blends iconic Jeep design with on-road comfort, modern technology, and available 4x4 capability for everyday journeys."
+    },
+    {
+        "id": 10,
+        "title": "Jeep Cherokee Trailhawk",
+        "model": 2023,
+        "price": 42000,
+        "imageUrl": "https://media.ed.edmunds-media.com/jeep/cherokee/2023/oem/2023_jeep_cherokee_4dr-suv_trailhawk_fq_oem_1_1600.jpg",
+        "description": "The ultimate off-road version of the Cherokee. The Trailhawk is Trail Rated, featuring a rugged design, locking rear differential, and superior 4x4 capability in its class."
+    }
+]

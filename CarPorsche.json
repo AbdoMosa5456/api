@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Porsche 911 GT3 RS",
+        "model": 2024,
+        "price": 245000,
+        "imageUrl": "https://media.ed.edmunds-media.com/porsche/911/2023/oem/2023_porsche_911_coupe_gt3-rs_fq_oem_1_1600.jpg",
+        "description": "A street-legal race car. The most extreme, track-focused 911, featuring radical aerodynamics and a high-revving, naturally aspirated engine for an unparalleled driving experience."
+    },
+    {
+        "id": 2,
+        "title": "Porsche Taycan Turbo S",
+        "model": 2024,
+        "price": 195000,
+        "imageUrl": "https://www.topgear.com/sites/default/files/2024/12/1-Porsche-Taycan-Turbo-S-review-2024-UK.jpg",
+        "description": "Porsche's all-electric masterpiece. It redefines electric performance with breathtaking acceleration, repeatable track capability, and the soul of a true Porsche sports car."
+    },
+    {
+        "id": 3,
+        "title": "Porsche Cayenne Turbo GT",
+        "model": 2024,
+        "price": 198000,
+        "imageUrl": "https://cdn.motor1.com/images/mgl/4J26Y/s1/porsche-cayenne-turbo-gt-2021.jpg",
+        "description": "The ultimate performance SUV. A Nürburgring record-holder engineered for the track, combining supercar-level dynamics with the practicality of a Cayenne."
+    },
+    {
+        "id": 4,
+        "title": "Porsche 718 Cayman GT4 RS",
+        "model": 2023,
+        "price": 165000,
+        "imageUrl": "https://media.ed.edmunds-media.com/porsche/718-cayman/2023/oem/2023_porsche_718-cayman_coupe_gt4-rs_fq_oem_1_1600.jpg",
+        "description": "The pinnacle of the mid-engine 718 platform. It features the heart of a 911 GT3 in a perfectly balanced chassis, creating an intoxicating and pure driver's car."
+    },
+    {
+        "id": 5,
+        "title": "Porsche 911 Turbo S",
+        "model": 2024,
+        "price": 232000,
+        "imageUrl": "https://media.ed.edmunds-media.com/porsche/911/2024/oem/2024_porsche_911_coupe_turbo-s_fq_oem_1_1600.jpg",
+        "description": "The quintessential 'everyday supercar.' It offers mind-bending acceleration and all-weather capability thanks to its twin-turbo engine and all-wheel-drive system."
+    },
+    {
+        "id": 6,
+        "title": "Porsche Panamera",
+        "model": 2024,
+        "price": 102000,
+        "imageUrl": "https://contactcars.fra1.cdn.digitaloceanspaces.com/contactcars-production/Images/Large/Engines/61f912d6ad08eca9bb63c8ac_f4466ab1-a6c8-481b-aa97-ae4a65cc4267.jpeg",
+        "description": "The four-door sports car for the whole family. The Panamera flawlessly blends Porsche's signature performance with executive-level luxury and everyday usability."
+    },
+    {
+        "id": 7,
+        "title": "Porsche Macan GTS",
+        "model": 2024,
+        "price": 88000,
+        "imageUrl": "https://cache2.arabwheels.ae/system/car_generation_pictures/25926/original/Cover.?1729747127",
+        "description": "The most driver-focused version of Porsche's compact SUV. The Macan GTS delivers sports car-like handling and potent performance in a practical package."
+    },
+    {
+        "id": 8,
+        "title": "Porsche 918 Spyder",
+        "model": 2015,
+        "price": 1500000,
+        "imageUrl": "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_1290x726/dam/pnr/porsche_newsroom/Produkte/918-Spyder/918-Spyder5/jcr:content/918%20Spyder%20mittig.jpg",
+        "description": "A legendary hybrid hypercar and a member of the 'Holy Trinity.' It represents a landmark in automotive engineering, combining a race-derived V8 with advanced hybrid technology."
+    },
+    {
+        "id": 9,
+        "title": "Porsche 911 Dakar",
+        "model": 2023,
+        "price": 223000,
+        "imageUrl": "https://media.ed.edmunds-media.com/porsche/911/2023/oem/2023_porsche_911_coupe_dakar_fq_oem_1_1600.jpg",
+        "description": "A tribute to Porsche's rally racing heritage. This limited-edition, lifted 911 is an all-terrain supercar designed to conquer both sand dunes and city streets with equal flair."
+    },
+    {
+        "id": 10,
+        "title": "Porsche 718 Boxster",
+        "model": 2024,
+        "price": 72000,
+        "imageUrl": "https://media.ed.edmunds-media.com/porsche/718-boxster/2024/oem/2024_porsche_718-boxster_convertible_style-edition_fq_oem_1_1600.jpg",
+        "description": "The definitive mid-engine roadster. It delivers a pure, open-top driving experience with exceptional balance, razor-sharp handling, and an engaging character."
+    }
+]

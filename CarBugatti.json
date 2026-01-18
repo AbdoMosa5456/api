@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "title": "Bugatti Tourbillon",
+        "model": 2026,
+        "price": 4000000,
+        "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2026-bugatti-tourbillon-104-66709d54aa287.jpg?crop=0.805xw:0.604xh;0.103xw,0.230xh&resize=1200:*",
+        "description": "The next-generation hybrid hypercar, combining a naturally aspirated V16 engine with electric motors. A revolutionary timepiece-inspired instrument cluster."
+    },
+    {
+        "id": 2,
+        "title": "Bugatti Mistral",
+        "model": 2024,
+        "price": 5000000,
+        "imageUrl": "https://bugatti-newsroom.imgix.net/a32c5a46-eb09-4a6f-ac28-35622dde9d4d/12%20BUGATTI_Roadster_launch-set",
+        "description": "The ultimate roadster and the last of its kind to feature the legendary W16 engine. An open-top experience of unparalleled speed and luxury."
+    },
+    {
+        "id": 3,
+        "title": "Bugatti Bolide",
+        "model": 2024,
+        "price": 4300000,
+        "imageUrl": "https://robbreport.com/wp-content/uploads/2025/06/opener-w-_221410.jpg",
+        "description": "An uncompromising, track-only hypercar built around the iconic W16 engine, offering an unprecedented power-to-weight ratio and extreme downforce."
+    },
+    {
+        "id": 4,
+        "title": "Bugatti Centodieci",
+        "model": 2022,
+        "price": 9000000,
+        "imageUrl": "https://bugatti.imgix.net/677aa0415820930bfcad6d69/centodieci-og.jpg",
+        "description": "A modern tribute to the legendary EB110. A highly exclusive, limited-edition masterpiece of design and performance."
+    },
+    {
+        "id": 5,
+        "title": "Bugatti La Voiture Noire",
+        "model": 2021,
+        "price": 18700000,
+        "imageUrl": "https://di-uploads-pod20.dealerinspire.com/browardbugatti/uploads/2019/12/Bugatti-La-Voiture-Noire-34-View.jpg",
+        "description": "A one-of-a-kind grand tourer, representing the pinnacle of automotive haute couture. The most expensive new car ever built."
+    },
+    {
+        "id": 6,
+        "title": "Bugatti Divo",
+        "model": 2020,
+        "price": 5800000,
+        "imageUrl": "https://bugatti.imgix.net/677ab02a531541bbada8d752/divo-og.jpg",
+        "description": "An agile, corner-hungry hypercar optimized for lateral acceleration and handling. A driver's car with a unique aerodynamic design."
+    },
+    {
+        "id": 7,
+        "title": "Bugatti Chiron Super Sport 300+",
+        "model": 2021,
+        "price": 3900000,
+        "color": "Black Carbon & Jet Orange",
+        "imageUrl": "https://cdn.motor1.com/images/mgl/7qRPJ/s1/bugatti-chiron-super-sport-300-first-batch.jpg",
+        "description": "The record-breaking longtail Chiron that surpassed the 300 mph barrier. A legend of straight-line speed and engineering prowess."
+    },
+    {
+        "id": 8,
+        "title": "Bugatti Chiron Pur Sport",
+        "model": 2020,
+        "price": 3600000,
+        "imageUrl": "https://bugatti.imgix.net/677aa758531541bbada77cf6/chiron-pur-sport-og.jpg",
+        "description": "The handling-focused variant of the Chiron, with a fixed rear wing and a chassis tuned for maximum agility on winding roads."
+    },
+    {
+        "id": 9,
+        "title": "Bugatti Chiron",
+        "model": 2016,
+        "price": 3000000,
+        "imageUrl": "https://www.autopediame.com/storage/images/bugatti/chiron/2023/Bugatti%20chiron%20exterior%20.jpg",
+        "description": "The icon that redefined the hypercar segment, blending immense power from its W16 engine with unparalleled luxury and everyday usability."
+    },
+    {
+        "id": 10,
+        "title": "Bugatti Veyron 16.4 Super Sport",
+        "model": 2010,
+        "price": 2400000,
+        "imageUrl": "https://bugatti.imgix.net/677d231d9c7766c70eead8f1/veyron-vitesse-og.jpg",
+        "description": "The former world record holder for the fastest production car. A monumental piece of automotive history that pushed the boundaries of speed."
+    }
+]

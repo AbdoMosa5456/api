@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Dodge Challenger SRT Demon 170",
+        "model": 2023,
+        "price": 120000,
+        "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2023-dodge-challenger-srt-demon-1701-6414d438e4a8a.jpg?crop=0.522xw:0.442xh;0.463xw,0.373xh&resize=1200:*",
+        "description": "The final and most powerful gasoline-powered Challenger. A street-legal drag monster built to dominate the quarter-mile with over 1000 horsepower on E85 fuel."
+    },
+    {
+        "id": 2,
+        "title": "Dodge Charger SRT Hellcat Widebody",
+        "model": 2023,
+        "price": 85000,
+        "imageUrl": "https://www.mideast.dodge.com/content/dam/cross-regional/global/dodge/2020/charger/srt/desktop/2020-dodge-srt-charger-promised-power.jpg.img.1000.jpg",
+        "description": "The quintessential four-door muscle car, packing supercharged Hellcat power into a practical sedan with an aggressive widebody stance."
+    },
+    {
+        "id": 3,
+        "title": "Dodge Durango SRT Hellcat",
+        "model": 2023,
+        "price": 95000,
+        "imageUrl": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG023_047DUfsrmo8o6s4jl3h2v5tfucn37pt__mid.jpg",
+        "description": "Defying expectations by placing a supercharged Hellcat engine into a three-row SUV, making it the world's most powerful family hauler."
+    },
+    {
+        "id": 4,
+        "title": "Dodge Viper GTS",
+        "model": 2017,
+        "price": 150000,
+        "imageUrl": "https://media.ed.edmunds-media.com/dodge/viper/2017/oem/2017_dodge_viper_coupe_gts_fq_oem_1_1600.jpg",
+        "description": "An uncompromising American supercar icon, famous for its massive naturally-aspirated V10 engine and raw, unfiltered driving experience."
+    },
+    {
+        "id": 5,
+        "title": "Dodge Hornet R/T",
+        "model": 2024,
+        "price": 42000,
+        "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2024-dodge-hornet-r-t-001-652fcef0f2c56.jpg?crop=0.814xw:0.611xh;0.0657xw,0.276xh&resize=1200:*",
+        "description": "Dodge's entry into the compact performance SUV segment, featuring a plug-in hybrid powertrain and a 'PowerShot' feature for an electric boost on demand."
+    },
+    {
+        "id": 6,
+        "title": "Dodge Charger Daytona (General Lee)",
+        "model": 1969,
+        "price": 250000,
+        "imageUrl": "https://i.ytimg.com/vi/pInB9--VbTs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCjicxhU8Y5MNKBJcI2NYr5hnhtog",
+        "description": "An iconic piece of automotive and pop culture history, famous as the 'General Lee' from 'The Dukes of Hazzard'. A rare homologation special built for NASCAR."
+    },
+    {
+        "id": 7,
+        "title": "Dodge Challenger R/T Scat Pack",
+        "model": 2023,
+        "price": 55000,
+        "imageUrl": "https://www.dubicars.com/images/a976d8/w_1300x760/gta-used-cars-trading-llc-1/8485513d-5d43-496f-85f7-8dcd7903860c.jpeg",
+        "description": "Widely considered the best performance value in the muscle car world, offering a powerful 6.4L HEMI V8 and pure, naturally-aspirated thrills."
+    },
+    {
+        "id": 8,
+        "title": "Dodge Ram 1500 TRX",
+        "model": 2023,
+        "price": 86000,
+        "imageUrl": "https://media.ed.edmunds-media.com/ram/1500/2022/oem/2022_ram_1500_crew-cab-pickup_trx_fq_oem_1_1600.jpg",
+        "description": "The apex predator of performance trucks, purpose-built for high-speed off-roading with a supercharged Hellcat engine and extreme suspension."
+    },
+    {
+        "id": 9,
+        "title": "Dodge Magnum SRT8",
+        "model": 2008,
+        "price": 30000,
+        "imageUrl": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/gallery-images/original/575000/100/575132.jpg?q=70&fit=crop&w=825&dpr=1",
+        "description": "A unique and now-classic muscle wagon, combining the practicality of a station wagon with the raw power of a 6.1L HEMI V8 engine."
+    },
+    {
+        "id": 10,
+        "title": "Dodge Neon SRT-4",
+        "model": 2005,
+        "price": 15000,
+        "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2004-dodge-neon-bat-101-689f4732d2f3a.jpg?crop=0.700xw:0.590xh;0.0932xw,0.303xh&resize=640:*",
+        "description": "A legendary sport compact 'giant killer' from the 2000s tuner era, known for its explosive turbocharged power in a lightweight, unassuming package."
+    }
+]

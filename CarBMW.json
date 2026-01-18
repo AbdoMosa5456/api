@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "BMW 3 Series",
+        "model": 2024,
+        "price": 55000,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/BMW_G20_%282022%29_IMG_7316_%282%29.jpg",
+        "description": "The iconic compact sport sedan, setting the benchmark for its class with a perfect blend of dynamic performance and everyday luxury."
+    },
+    {
+        "id": 2,
+        "title": "BMW X5",
+        "model": 2023,
+        "price": 75000,
+        "imageUrl": "https://cdn.motor1.com/images/mgl/kpY1B/s1/2022-bmw-x5-black-vermilion.jpg",
+        "description": "The original Sports Activity Vehicle (SAV) that masterfully combines luxury, versatility, and signature BMW driving dynamics for any terrain."
+    },
+    {
+        "id": 3,
+        "title": "BMW M4 Competition",
+        "model": 2024,
+        "price": 98000,
+        "imageUrl": "https://images.netdirector.co.uk/gforces-auto/image/upload/q_auto,c_fill,f_auto,fl_lossy,w_1920,h_873/auto-client/9e312a05eb2f038749e02631452e3deb/showroom_banner.jpg",
+        "description": "A high-performance coupe with aggressive styling, engineered for those who demand uncompromising track-level power and precision on the road."
+    },
+    {
+        "id": 4,
+        "title": "BMW i8",
+        "model": 2020,
+        "price": 150000,
+        "imageUrl": "https://ymimg1.b8cdn.com/uploads/article/14392/pictures/13662122/2019_BMW_i8_Coupe_front_three_quarter.jpg",
+        "description": "A pioneering plug-in hybrid sports car featuring a futuristic design, iconic butterfly doors, and a unique blend of efficiency and performance."
+    },
+    {
+        "id": 5,
+        "title": "BMW 7 Series",
+        "model": 2023,
+        "price": 105000,
+        "imageUrl": "https://www.topgear.com/sites/default/files/2023/08/P90492179_highRes_bmw-i7-xdrive60-m-sp%20%281%29.jpg",
+        "description": "The flagship luxury sedan, offering the ultimate in comfort, cutting-edge technology, and a sophisticated, commanding presence."
+    },
+    {
+        "id": 6,
+        "title": "BMW X3",
+        "model": 2024,
+        "price": 52000,
+        "imageUrl": "https://www.truck1.net/img/xxl/1382/BMW-X3_1382_584885166763.jpg",
+        "description": "A versatile and dynamic compact SAV that perfectly balances everyday practicality with the engaging driving pleasure signature to BMW."
+    },
+    {
+        "id": 7,
+        "title": "BMW M5 CS",
+        "model": 2022,
+        "price": 142000,
+        "imageUrl": "https://media.elbalad.news/2024/10/large/914/9/383.jpg",
+        "description": "The most powerful and exclusive M5 ever created. A limited-edition super sedan engineered for ultimate track performance and four-door capability."
+    },
+    {
+        "id": 8,
+        "title": "BMW Z4 Roadster",
+        "model": 2023,
+        "price": 68000,
+        "imageUrl": "https://media.istockphoto.com/id/1471015322/photo/bmw-z4-car.jpg?s=612x612&w=0&k=20&c=JUZBrqpoBQ-1zA1SK6ACLnpNE7qjKrEjqrgkhmUtKgA=",
+        "description": "A classic two-seater roadster that delivers a pure, open-air driving experience with agile handling and a powerful engine."
+    },
+    {
+        "id": 9,
+        "title": "BMW iX",
+        "model": 2024,
+        "price": 87100,
+        "imageUrl": "https://media.elbalad.news/2024/10/large/1015/2/319.jpg",
+        "description": "BMW's flagship all-electric SAV, showcasing bold design, a futuristic lounge-like interior, and next-generation technology."
+    },
+    {
+        "id": 10,
+        "title": "BMW 8 Series Gran Coupe",
+        "model": 2023,
+        "price": 90000,
+        "imageUrl": "https://www.autopediame.com/storage/images/BMW/8%20series/2024%20BMW%208%20Sereis%20Gran%20Coupe%20%20.jpg",
+        "description": "The pinnacle of style and luxury, this four-door coupe blends breathtaking aesthetics with powerful grand touring performance."
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Mercedes-Benz C-Class",
+        "model": 2024,
+        "price": 58000,
+        "imageUrl": "https://www.mercedes-benz.com.eg/content/dam/hq/passengercars/cars/c-class/c-class-saloon-w206-pi/overview/exterior-lines/06-2022/images/mercedes-benz-c-class-w206-exterior-equipment-lines-avantgarde-764x573-06-2022.jpg/1740017688749.jpg?im=Crop,rect=(0,0,764,573);Resize=(512,384)",
+        "description": "Often called the 'baby S-Class,' this compact luxury sedan offers a perfect blend of sophisticated technology, elegant design, and dynamic driving performance."
+    },
+    {
+        "id": 2,
+        "title": "Mercedes-Benz G-Class",
+        "model": 2023,
+        "price": 140000,
+        "imageUrl": "https://car-images.bauersecure.com/pagefiles/91007/electric_g_class.jpg",
+        "description": "An automotive icon with a timeless, boxy design and military roots. It combines unparalleled off-road capability with handcrafted, modern luxury."
+    },
+    {
+        "id": 3,
+        "title": "Mercedes-Benz S-Class",
+        "model": 2024,
+        "price": 115000,
+        "imageUrl": "https://cache4.arabwheels.ae/system/car_generation_pictures/25064/original/Cover.?1729746873",
+        "description": "The undisputed flagship of luxury sedans. It serves as the benchmark for automotive innovation, pioneering new standards in comfort, safety, and technology."
+    },
+    {
+        "id": 4,
+        "title": "Mercedes-AMG GT Coupe",
+        "model": 2024,
+        "price": 135000,
+        "imageUrl": "https://www.topgear.com/sites/default/files/2024/05/1-AMG-GT-UK-review-2024.jpg",
+        "description": "The pinnacle of Mercedes-AMG's performance engineering. A breathtaking sports car designed for thrilling dynamics, with a powerful handcrafted engine and track-honed precision."
+    },
+    {
+        "id": 5,
+        "title": "Mercedes-Benz GLE SUV",
+        "model": 2023,
+        "price": 62000,
+        "imageUrl": "https://www.mercedes-benz.com.eg/content/dam/hq/passengercars/cars/gle/gle-suv-v167-fl-pi/overview/stage/09-2023/images/mercedes-benz-gle-suv-v167-stage-3840x3840-09-2023.jpg/1740018614947.jpg?im=Crop,rect=(1032,417,2808,2808);Resize=(828,828)",
+        "description": "An intelligent and versatile mid-size luxury SUV that masterfully balances family-friendly space, advanced technology, and confident performance on and off the road."
+    },
+    {
+        "id": 6,
+        "title": "Mercedes-EQS Sedan",
+        "model": 2024,
+        "price": 104400,
+        "imageUrl": "https://ymimg1.b8cdn.com/uploads/car_model/12393/pictures/15975458/2022_Mercedes-Benz_EQS_Sedan_Exterior_01.jpg",
+        "description": "The all-electric flagship and the S-Class of the electric era. It is defined by its futuristic 'one-bow' design, revolutionary MBUX Hyperscreen, and exceptional range."
+    },
+    {
+        "id": 7,
+        "title": "Mercedes-Benz CLA Coupe",
+        "model": 2023,
+        "price": 40000,
+        "imageUrl": "https://arabsauto.com/wp-content/uploads/2019/01/Mercedes-Benz-CLA-2020-ArabsAuto-9.jpg",
+        "description": "A stylish four-door coupe that serves as a gateway to the Mercedes-Benz brand, featuring a sleek, aerodynamic profile and a tech-forward interior."
+    },
+    {
+        "id": 8,
+        "title": "Mercedes-Benz SL Roadster",
+        "model": 2024,
+        "price": 110000,
+        "imageUrl": "https://media.ed.edmunds-media.com/mercedes-benz/sl-class/2023/oem/2023_mercedes-benz_sl-class_convertible_amg-sl-63_fq_oem_1_1600.jpg",
+        "description": "The legendary grand touring roadster, reborn and now developed by AMG. It blends breathtaking performance with luxurious open-air driving and everyday usability."
+    },
+    {
+        "id": 9,
+        "title": "Mercedes-Benz GLS SUV",
+        "model": 2023,
+        "price": 82000,
+        "imageUrl": "https://arabgt.com/wp-content/uploads/2023/04/%D9%85%D8%B1%D8%B3%D9%8A%D8%AF%D8%B3-GLS-2024-1-1.jpg",
+        "description": "Dubbed the 'S-Class of SUVs,' the GLS is the largest and most luxurious SUV in the lineup, offering unparalleled space, comfort, and capability for up to seven passengers."
+    },
+    {
+        "id": 10,
+        "title": "Mercedes-AMG E 63 S",
+        "model": 2023,
+        "price": 112800,
+        "imageUrl": "https://media.ed.edmunds-media.com/mercedes-benz/e-class/2023/oem/2023_mercedes-benz_e-class_sedan_amg-e-63-s_fq_oem_1_1600.jpg",
+        "description": "The ultimate executive super-sedan. A 'wolf in sheep's clothing' that combines the practicality of an E-Class with a handcrafted biturbo V8 for ferocious performance."
+    }
+]

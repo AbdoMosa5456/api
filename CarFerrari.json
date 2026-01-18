@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Ferrari SF90 Stradale",
+        "model": 2024,
+        "price": 520000,
+        "imageUrl": "https://media.elbalad.news/ArticleUpload/2025/4/20/2_622_073916.jpg",
+        "description": "Ferrari's first series-production PHEV hypercar, delivering 1000 hp by combining a twin-turbo V8 with three electric motors. The pinnacle of modern performance."
+    },
+    {
+        "id": 2,
+        "title": "Ferrari 296 GTB",
+        "model": 2024,
+        "price": 340000,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/2022_Ferrari_296_%28cropped%29.jpg",
+        "description": "Marking the return of the V6 engine to a Ferrari road car, this plug-in hybrid is celebrated for its agile handling and exhilarating 'piccolo V12' sound."
+    },
+    {
+        "id": 3,
+        "title": "Ferrari Purosangue",
+        "model": 2024,
+        "price": 400000,
+        "imageUrl": "https://ymimg1.b8cdn.com/uploads/car_model/12810/pictures/15982966/2023_Ferrari_Purosangue_Exterior_01.png",
+        "description": "Ferrari's first-ever four-door, four-seater. Not an SUV, but a true Ferrari with a naturally-aspirated V12, offering unprecedented space and versatility."
+    },
+    {
+        "id": 4,
+        "title": "Ferrari LaFerrari",
+        "model": 2014,
+        "price": 3500000,
+        "imageUrl": "https://saudishift.com/wp-content/uploads/2016/07/LaFerrari_serie_limitata_1.jpg",
+        "description": "The successor to the Enzo and a member of the hypercar 'Holy Trinity'. A limited-production masterpiece featuring an F1-derived HY-KERS hybrid V12 system."
+    },
+    {
+        "id": 5,
+        "title": "Ferrari F40",
+        "model": 1990,
+        "price": 2800000,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/F40_Ferrari_20090509.jpg/1280px-F40_Ferrari_20090509.jpg",
+        "description": "The last car personally approved by Enzo Ferrari. A raw, uncompromising, and iconic supercar known for its twin-turbo V8 and pure, analogue driving experience."
+    },
+    {
+        "id": 6,
+        "title": "Ferrari Enzo",
+        "model": 2003,
+        "price": 3000000,
+        "imageUrl": "https://www.dubicars.com/images/31b2aa/r_960x540/generations/generation_64e5c1922f791_ferrari-enzo-2.jpg?6",
+        "description": "A defining hypercar of the 2000s, named after the company's founder. It brought Formula 1 technology, including a carbon fiber chassis, to the road."
+    },
+    {
+        "id": 7,
+        "title": "Ferrari 812 Competizione",
+        "model": 2022,
+        "price": 600000,
+        "imageUrl": "https://www.topgear.com/sites/default/files/2021/11/812_Competizione_statics-details_10_0.jpg",
+        "description": "The track-focused, hardcore evolution of the 812 Superfast. Features the highest-revving Ferrari V12 ever, with extreme aerodynamics for ultimate performance."
+    },
+    {
+        "id": 8,
+        "title": "Ferrari Roma",
+        "model": 2023,
+        "price": 250000,
+        "imageUrl": "https://ymimg1.b8cdn.com/uploads/car_model/12866/pictures/15984183/01.jpg",
+        "description": "Embodying 'La Nuova Dolce Vita', the Roma is an elegant front-engine GT coupe that combines timeless design with modern performance for sophisticated grand touring."
+    },
+    {
+        "id": 9,
+        "title": "Ferrari F8 Tributo",
+        "model": 2022,
+        "price": 300000,
+        "imageUrl": "https://arabgt.com/wp-content/uploads/2020/12/%D9%81%D9%8A%D8%B1%D8%A7%D8%B1%D9%8A-F8-%D8%AA%D8%B1%D9%8A%D8%A8%D9%88%D8%AA%D9%88-2020-1.jpg",
+        "description": "A tribute to Ferrari's most powerful V8 engine. This mid-engine berlinetta is the successor to the 488, known for its immense power and accessible handling."
+    },
+    {
+        "id": 10,
+        "title": "Ferrari 488 Pista",
+        "model": 2019,
+        "price": 450000,
+        "imageUrl": "https://saudiict.com/wp-content/uploads/2018/09/bdfdk4yg45y95g9ergy93tgite-1044x640.jpg",
+        "description": "The track-oriented 'Pista' version of the 488 GTB. A lighter, more powerful, and aerodynamically advanced machine built for maximum performance."
+    }
+]

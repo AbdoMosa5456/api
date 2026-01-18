@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Lamborghini Revuelto",
+        "model": 2024,
+        "price": 605000,
+        "imageUrl": "https://www.autopediame.com/userfiles/images/Lamborghini%20revuelto%202024/__thumbs/Revuelto%201.jpg/Revuelto%201__800x450.jpg",
+        "description": "The first-ever V12 HPEV (High Performance Electrified Vehicle). The successor to the Aventador, heralding a new era with a naturally aspirated V12 and three electric motors."
+    },
+    {
+        "id": 2,
+        "title": "Lamborghini Huracán Tecnica",
+        "model": 2023,
+        "price": 240000,
+        "imageUrl": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1674220760/evo/2023/01/Lamborghini%20Huracan%20Tecnica%20review%202%20-6.jpg",
+        "description": "The perfect blend of lifestyle and performance. A rear-wheel-drive Huracán designed for ultimate driving fun on both road and track, bridging the gap between the EVO and STO."
+    },
+    {
+        "id": 3,
+        "title": "Lamborghini Urus Performante",
+        "model": 2024,
+        "price": 265000,
+        "imageUrl": "https://www.dubicars.com/images/568d23/r_960x540/generations/generation_64a6696eaa778_lamborghini-urus-exterior-front-left-angled.jpg?6",
+        "description": "The lighter, faster, and more track-focused version of the pioneering Super SUV. Engineered for superior performance with enhanced aerodynamics and a dedicated Rally mode."
+    },
+    {
+        "id": 4,
+        "title": "Lamborghini Huracán Sterrato",
+        "model": 2024,
+        "price": 275000,
+        "imageUrl": "https://citymagazine.b-cdn.net/wp-content/uploads/2024/06/Mansory-Sterrato-Lamborghini-0-1-jpg.webp",
+        "description": "The first all-terrain super sports car. A V10-powered machine with a raised ride height and rally-inspired design, built to conquer both asphalt and dirt roads."
+    },
+    {
+        "id": 5,
+        "title": "Lamborghini Aventador LP 780-4 Ultimae",
+        "model": 2022,
+        "price": 500000,
+        "imageUrl": "https://ymimg1.b8cdn.com/uploads/car_model/12146/pictures/15970419/01.png",
+        "description": "The grand finale of the legendary Aventador era. This limited edition is the most powerful naturally aspirated V12 Aventador, combining the performance of the SVJ with the elegance of the S."
+    },
+    {
+        "id": 6,
+        "title": "Lamborghini Countach LPI 800-4",
+        "model": 2022,
+        "price": 2640000,
+        "imageUrl": "https://cdn.motor1.com/images/mgl/bqOlj/s1/lamborghini-countach-rendering.jpg",
+        "description": "A futuristic, limited-edition homage to the iconic Countach of the 1970s. It features a modern hybrid V12 powertrain based on the Sián's innovative technology."
+    },
+    {
+        "id": 7,
+        "title": "Lamborghini Sián FKP 37",
+        "model": 2020,
+        "price": 3600000,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Lamborghini_Sian_at_IAA_2019_IMG_0332.jpg",
+        "description": "Lamborghini's first-ever production hybrid, pioneering the use of a supercapacitor for instant electric power. A masterpiece of design and forward-thinking technology."
+    },
+    {
+        "id": 8,
+        "title": "Lamborghini Essenza SCV12",
+        "model": 2021,
+        "price": 2500000,
+        "imageUrl": "https://www.lambocars.com/wp-content/uploads/2020/11/2021_essenza_scv12_1.jpg",
+        "description": "A track-only, limited-edition hypercar developed by Squadra Corse. It boasts the most powerful naturally aspirated V12 ever from Lamborghini and extreme aerodynamics."
+    },
+    {
+        "id": 9,
+        "title": "Lamborghini Veneno",
+        "model": 2013,
+        "price": 4500000,
+        "imageUrl": "https://cdn.motor1.com/images/mgl/W8M4Go/s1/2015-lamborghini-veneno-roadster.jpg",
+        "description": "An ultra-rare hypercar built to celebrate the company's 50th anniversary. Essentially a racing prototype for the road, known for its extreme, aerospace-inspired design."
+    },
+    {
+        "id": 10,
+        "title": "Lamborghini Centenario",
+        "model": 2017,
+        "price": 1900000,
+        "imageUrl": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_detail/few_off/Centenario/header_Centenario_og_wa%20%281%29.jpg",
+        "description": "A limited-edition model created to honor the 100th birthday of founder Ferruccio Lamborghini. It showcased advanced aerodynamics and rear-wheel steering technology."
+    }
+]
